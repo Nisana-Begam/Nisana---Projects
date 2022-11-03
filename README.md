@@ -1,1 +1,0 @@
-Identified and resolved the complexity faced by the company in addressing the customer complaints. Used python libraries such as Numpy, Pandas, matplotlib and provided the trend charts and insights wherever possible.
